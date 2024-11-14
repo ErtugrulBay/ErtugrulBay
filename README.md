@@ -1,6 +1,5 @@
 # Hi there 👋, My Name is Ertugrul
 ### Web developer
-![Web developer]
 
 ErtugrulBay/ErtugrulBay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
